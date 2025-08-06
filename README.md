@@ -51,4 +51,4 @@ Using the Diamond Model, I broke down the Ukraine cyberattack as follows:
 - Gained experience applying structured analysis to real-world attacks.
 - Strengthened understanding of how malware campaigns interface with critical infrastructure.
 
-> ![Screenshot of THM Flag from Practice Analysis](image1.jpg)
+> ![Screenshot of THM Flag from Practice Analysis](image1.png)
